@@ -28,7 +28,7 @@ Four different classifier models (RandomForest, c5.0, kNN Nearest-Neighbors, and
 
 An example of the kNN Nearest-Neighbor model optimization is shown below:
 <P align="center">
-<IMG SRC="CustomerBrandPreferences.jpg" width=80% align="center"></IMG>
+<IMG SRC="CustomerBrandPreferences.jpg" width=70% align="center"></IMG>
 </P>
 
 <H3>Results</H3>
