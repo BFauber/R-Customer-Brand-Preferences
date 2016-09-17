@@ -6,13 +6,13 @@ A capstone project using R to explore demographic data and employ machine learni
 Predict customer preferences for a laptop brand based on other demographic data.
 
 <OL>
-<LI> Provided with a complete set of customer demographic data and laptop brand preferences
+<LI> Provided with a complete set of customer demographic data and laptop brand preferences.
 
-<LI> Build, cross-validate, and refine classification models on the training dataset
+<LI> Build, cross-validate, and refine classification models on the training dataset.
 
-<LI> Test the refined classification models on hold-out data to further validate the models
+<LI> Test the refined classification models on hold-out data to further validate the models.
 
-<LI> Apply the best model(s) to new demographic data and predict customer preference for a certain brand of laptop (Acer or Sony)
+<LI> Apply the best model(s) to new demographic data and predict customer preference for a certain brand of laptop (Acer or Sony).
 
 </OL>
 
