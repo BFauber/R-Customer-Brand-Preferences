@@ -16,7 +16,7 @@ Predict customer preferences for a laptop brand based on other demographic data.
 
 </OL>
 
-R was used in this exercise and the packages "caret", "e1071", "randomForest", "C50", "plyr", "doMC", and "ggplot2" were employed in the analysis.
+R was used in this exercise and the packages caret, e1071, randomForest, C50, plyr, doMC, and ggplot2 were employed in the analysis.
 <BR>
 <BR>
 
