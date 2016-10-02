@@ -35,6 +35,6 @@ An example of the kNN Nearest-Neighbor model optimization is shown below:
 
 The RandomForest (RF) and c5.0 models provided the most accurate, precise, and sensitive classification results when evaluated against both the training and hold-out data (RF hold-out data: accuracy=0.92, precision=0.90).  Both models were then applied to new customer data to predict laptop brand preferences using customer demographic data.  RandomForest used all data fields for its classification (salary, age, education level, car, zip code, credit availability), whereas the c5.0 model relied on two data fields for its classification (salary, age).
 
-The methods, results, and summary are in the PDF file.  The Rdata file for the complete analysis is also provided above.
+The methods, results, and summary are in the PDF file.  The R data file for the complete analysis is also provided.
 
 Benjamin P. Fauber
