@@ -2,7 +2,7 @@
 A capstone project using R to explore demographic data and employ machine learning algorithms to predict customer brand preferences.
 
 <P align="center">
-<IMG SRC="XX.jpg" width=80% align="center"></IMG>
+<IMG SRC="Laptop.jpg" width=80% align="center"></IMG>
 </P>
 
 ##FINAL PRESENTATION
