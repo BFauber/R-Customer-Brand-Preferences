@@ -6,7 +6,7 @@ A capstone project using R to explore demographic data and employ machine learni
 </P>
 
 ##FINAL PRESENTATION
-See my <A HREF="R_Predicting_Brand_Preferences_BFauber_2016.pdf" target="_blank">final presentation deck</A> in PDF.
+See my <A HREF="Predicting_Brand_Preferences_BFauber.pdf" target="_blank">final presentation deck</A> in PDF.
 
 ##R CODE
 Check out the <A HREF="Predicting_Brand_Preferences.R" target="_blank">R code</A> for this project.
