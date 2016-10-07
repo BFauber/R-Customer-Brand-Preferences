@@ -9,7 +9,7 @@ A capstone project using R to explore demographic data and employ machine learni
 See my <A HREF="R_Predicting_Brand_Preferences_BFauber_2016.pdf" target="_blank">final presentation deck</A> in PDF.
 
 ##R CODE
-Check out the <A HREF="R_Predicting_Brand_Preferences_BFauber_2016.R" target="_blank">R code</A> for this project.
+Check out the <A HREF="Predicting_Brand_Preferences.R" target="_blank">R code</A> for this project.
 
 ## PROJECT SUMMARY
 Split the data (10,000 x 7 data.frame) into two sets: training (4,001 x 7 data.frame) and hold-out (5,999 x 7 data.frame).  The machine learning algorithms were optimized on the training data and the optimized models were evaluated against the training and hold-out data.  The models were also trained with 10-fold cross-validation to minimize the risk of overfitting the training dataset.
