@@ -1,9 +1,8 @@
 ####################################################################
 ####################################################################
 # Title: UT CPE Data Science -- Predicting Customer Brand Preferences
-# Version: 0.1
 # Date: 12Sept2016
-# Authors@R: person("Ben", "Fauber",
+# Authors@R: person("Ben Fauber", "author",
 #                  role = c("aut", "cre"))
 # Description: Explores several classifier models for analysis of existing 
 # product data and applies them to hold-out data, followed by application to 
