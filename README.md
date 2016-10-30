@@ -1,4 +1,4 @@
-## R-PREDICTING-BRAND-PREFERENCES
+## PREDICTING-BRAND-PREFERENCES
 A capstone project using R to explore demographic data and employ machine learning algorithms to predict customer brand preferences.
 
 <P align="center">
